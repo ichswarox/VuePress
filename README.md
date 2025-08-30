@@ -1,41 +1,48 @@
 ---
 permalink: /
+title: Auto Parts Wholesale Catalog
 ---
 
-# 鱼皮的编程宝典
+# Auto Parts Wholesale Catalog
 
-> 贴心的编程学习路线，全面的编程知识百科
+> Your trusted source for quality automotive parts at wholesale prices
 >
-> 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
->
-> 本站地址：[https://codefather.cn](https://codefather.cn)
+> Specializing in Toyota and other major vehicle brands
 
-## 本站内容
+## About Our Wholesale Service
 
-- [编程学习路线](/学习路线)
-- [Bug修复手册](/Bug手册)
-- [编程产品服务](/产品服务)
-- [编程词典](/编程词典)
-- [作者介绍](/作者)
+We provide high-quality automotive parts at competitive wholesale prices for dealers, repair shops, and fleet operators. Our extensive catalog includes OEM and aftermarket parts for various vehicle makes and models.
 
+## Product Categories
 
-## [编程学习路线](/学习路线)
+- [Auto Parts Catalog](/auto-parts)
+- [Author Information](/author)
 
-包含 Java、前端、C++、Python、SQL、计算机基础、数据结构和算法、Git & GitHub、Linux、设计模式等多个精心编写的学习路线，帮助程序员快速入门。
+## Auto Parts Wholesale
 
+Our comprehensive auto parts catalog features:
+- OEM and aftermarket components
+- Competitive wholesale pricing
+- Fast delivery and reliable logistics
+- Quality assurance on all parts
+- Volume discounts for bulk orders
 
-## [Bug修复手册](/bug手册)
+Browse our extensive collection of automotive parts organized by vehicle make and model. Find everything from engine components to body parts at wholesale prices.
 
-包括解决 Bug 的流程套路、经典 Bug 解决方案、Bug 案例分享，帮大家提高 Bug 的解决效率、带大家提升自主解决 Bug 的能力。
+## Why Choose Our Wholesale Service?
 
-## [编程产品服务](/产品服务)
+- **Competitive Pricing**: Bulk purchase discounts and volume-based pricing
+- **Wide Selection**: Comprehensive catalog of parts for major vehicle brands
+- **Fast Delivery**: Efficient logistics and quick turnaround times
+- **Quality Guarantee**: All parts meet or exceed industry standards
+- **Business Support**: Dedicated account management for wholesale partners
 
-鱼皮公司旗下的产品和服务，如算法学习、后端求职突击、前端面试突击、考研陪跑、求职简历工具等。
+## Become a Wholesale Partner
 
-## [编程词典](/编程词典)
+Join our network of trusted dealers and service centers:
+- Customized pricing structures
+- Priority customer support
+- Regular product updates
+- Dedicated account management
 
-计算机编程领域专业术语大全，覆盖 Java、Python、前端、Go、C++、游戏开发、人工智能、大数据、云计算、区块链、机器学习、深度学习、网络安全、算法、操作系统、数据库、物联网、嵌入式、移动开发等 30 个方向。 
-
-## [作者介绍](/作者)
-
-没啥好说的，感谢您的阅读！
+Contact our sales team today to learn more about our wholesale opportunities.

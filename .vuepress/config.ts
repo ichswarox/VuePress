@@ -4,13 +4,13 @@ import footer from "./footer";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
 
-const author = "程序员鱼皮";
+const author = "Auto Parts Wholesale";
 const domain = "https://code.yupi.icu";
-const tags = ["程序员", "编程", "计算机"];
+const tags = ["Auto Parts", "Wholesale", "Automotive"];
 
 export default defineConfig({
-  title: "鱼皮的编程宝典",
-  description: "贴心的编程学习路线，全面的编程知识百科",
+  title: "Auto Parts Wholesale Catalog",
+  description: "Quality automotive parts at wholesale prices for dealers and repair shops",
   head: [
     // 站点图标
     ["link", { rel: "icon", href: "/favicon.ico" }],
@@ -19,7 +19,7 @@ export default defineConfig({
       "meta",
       {
         name: "keywords",
-        content: "程序员鱼皮, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经",
+        content: "Auto Parts, Wholesale, Automotive, Toyota, Engine Parts, Brake Parts, Suspension, OEM, Aftermarket",
       },
     ],
     // 百度统计
@@ -73,7 +73,7 @@ export default defineConfig({
       "seo",
       {
         siteTitle: (_, $site) => $site.title,
-        title: ($page) => $page.title,
+        title: ($page, $site) => $site.title,
         description: ($page) => $page.frontmatter.description || $page.description,
         author: (_, $site) => $site.themeConfig.author || author,
         tags: ($page) => $page.frontmatter.tags || tags,
@@ -123,10 +123,7 @@ export default defineConfig({
     nav: navbar,
     sidebar,
     lastUpdated: "最近更新",
-
-    // GitHub 仓库位置
-    repo: "liyupi/codefather",
-    docsBranch: "master",
+    author: "Auto Parts Wholesale",
 
     // 编辑链接
     editLinks: true,
